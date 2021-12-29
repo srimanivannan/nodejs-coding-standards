@@ -1,0 +1,16 @@
+lib-cov
+*.log
+*.pid
+*.debug
+._*
+.DS_Store
+report.tap
+.vscode/.*.VC.DB*
+.idea
+results
+build
+node_modules
+docs
+tmp
+coverage
+.nyc_output
